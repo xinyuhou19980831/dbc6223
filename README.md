@@ -49,15 +49,15 @@ We developed a system that leverages large language models (LLMs) and vector sea
 
 ### Running the Project
 
-1. **Run the main script**
+1. **Open the Jupyter Notebook**
    ```bash
-   python main.py
+   jupyter notebook
    ```
 
-2. **For a web interface (using Streamlit)**
-   ```bash
-   streamlit run app.py
-   ```
+2. **Navigate to the project notebook (`project.ipynb`) and open it.**
+
+3. **Run the notebook cells sequentially** to execute the project. Ensure all dependencies are installed and API keys are properly set.
+
 
 ## Results
 
