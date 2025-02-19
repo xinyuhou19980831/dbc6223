@@ -1,0 +1,11 @@
+langchain
+langgraph
+dspy
+openai
+chromadb
+streamlit
+pandas
+numpy
+requests
+faiss-cpu
+python-dotenv
