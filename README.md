@@ -54,7 +54,7 @@ We developed a system that leverages large language models (LLMs) and vector sea
    jupyter notebook
    ```
 
-2. **Navigate to the project notebook (`project.ipynb`) and open it.**
+2. **Navigate to the project notebook (`literature_review_assistant.ipynb`) and open it.**
 
 3. **Run the notebook cells sequentially** to execute the project. Ensure all dependencies are installed and API keys are properly set.
 
