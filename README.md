@@ -27,7 +27,7 @@ We developed a system that leverages large language models (LLMs) and vector sea
 1. **Clone the repository**
    ```bash
    git clone https://github.com/xinyuhou19980831/dbc6223.git
-   cd [repository_folder]
+   cd dbc6223
    ```
 
 2. **Create and activate a virtual environment**
