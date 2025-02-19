@@ -1,7 +1,7 @@
 # BDC6223 Literature Review Assistant
 
 ## Team Members
-- Hou Xingyu
+- Hou Xinyu
 - Li Jingying
 - Lin Xingyu
 - Liu Yaoyao
