@@ -66,8 +66,8 @@ The system currently supports the following features:
 1. **Summarizing Offline PDFs**: Automatically summarizes the methodologies and key insights from research documents.
 2. **Finding Relevant Documents**: Locates the document most relevant to a user-specified topic.
 3. **Documents Comparison**: Compares multiple documents and ranks them based on similarity scores related to the indicated topic.
-4. **Topic Extraction**: Searches for papers that are relevant to indicated topics online.
-5. **Document Clustering and Literature Review**: Groups similar documents together based on their content, enabling easier navigation, analysis and review.
+4. **Online Document Search**: Searches for papers that are relevant to indicated topics online.
+5. **Topic Extraction, Document Clustering and Literature Review**: Groups similar documents together based on topic in a given PDF, enabling easier navigation, analysis and review.
 
 ### Example
 
