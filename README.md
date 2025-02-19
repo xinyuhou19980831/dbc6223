@@ -1,4 +1,4 @@
-# BDC6223 Literature Review Bot
+# BDC6223 Literature Review Assistant
 
 ## Team Members
 - Hou Xingyu
